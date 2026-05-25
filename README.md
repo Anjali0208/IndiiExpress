@@ -183,7 +183,7 @@ While building this project, I improved my understanding of:
 ## Clone Repository
 
 ```
-git clone <your-repository-link>
+git clone https://github.com/Anjali0208/IndiiExpress.git
 ```
 
 ## Open Project
@@ -193,8 +193,9 @@ Simply open:
 ```
 index.html
 ```
-
 in your browser.
+
+Here is the live link: https://stirring-moxie-aaa370.netlify.app/
 
 <img width="1440" height="777" alt="Screenshot 2026-05-25 at 9 02 20 PM" src="https://github.com/user-attachments/assets/8e70183f-84fa-4413-b5a6-c41f29274a2b" />
 
